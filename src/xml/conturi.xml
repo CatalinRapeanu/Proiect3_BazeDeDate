@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "conturi.dtd">
+<root> 
+<cont><id>2</id><username>PLAAAANG:(</username><password>ACUMA</password><user_type>admin</user_type><edit>edit.php?id=2</edit><delete>delete.php?id=2</delete><confirm>return  confirm("Are you sure you want to delete this?")</confirm></cont> 
+<cont><id>3</id><username>catalin</username><password>forthewin</password><user_type>admin</user_type><edit>edit.php?id=3</edit><delete>delete.php?id=3</delete><confirm>return  confirm("Are you sure you want to delete this?")</confirm></cont>
+<cont><id>4</id><username>marean</username><password>12345</password><user_type>user</user_type><edit>edit.php?id=4</edit><delete>delete.php?id=4</delete><confirm>return  confirm("Are you sure you want to delete this?")</confirm></cont>
+<cont><id>5</id><username>qwerty</username><password>12345</password><user_type>user</user_type><edit>edit.php?id=5</edit><delete>delete.php?id=5</delete><confirm>return  confirm("Are you sure you want to delete this?")</confirm></cont>
+</root>

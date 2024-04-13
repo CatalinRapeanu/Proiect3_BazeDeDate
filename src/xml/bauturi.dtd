@@ -1,0 +1,55 @@
+<!ELEMENT root (bautura)+>
+<!ATTLIST root
+xmlns CDATA #FIXED">
+
+<!ELEMENT bautura (id, nume, imagine, ingrediente, tip_bautura, pret, edit, view, delete, confirm, upload, back)>
+<!ATTLIST bautura
+xmlns CDATA #FIXED">
+
+<!ELEMENT id (#PCDATA)>
+<!ATTLIST id
+xmlns CDATA #FIXED">
+
+<!ELEMENT nume (#PCDATA)>
+<!ATTLIST nume
+xmlns CDATA #FIXED">
+
+<!ELEMENT imagine (#PCDATA)>
+<!ATTLIST imagine
+xmlns CDATA #FIXED">
+
+<!ELEMENT ingrediente (#PCDATA)>
+<!ATTLIST ingrediente
+xmlns CDATA #FIXED">
+
+<!ELEMENT tip_bautura (#PCDATA)>
+<!ATTLIST tip_bautura
+xmlns CDATA #FIXED">
+
+<!ELEMENT pret (#PCDATA)>
+<!ATTLIST pret
+xmlns CDATA #FIXED">
+
+<!ELEMENT edit (#PCDATA)>
+<!ATTLIST edit
+xmlns CDATA #FIXED">
+
+<!ELEMENT view (#PCDATA)>
+<!ATTLIST view
+xmlns CDATA #FIXED">
+
+<!ELEMENT delete (#PCDATA)>
+<!ATTLIST delete
+xmlns CDATA #FIXED">
+
+<!ELEMENT confirm (#PCDATA)>
+<!ATTLIST confirm
+xmlns CDATA #FIXED">
+
+<!ELEMENT upload (#PCDATA)>
+<!ATTLIST upload
+xmlns CDATA #FIXED">
+
+<!ELEMENT back (#PCDATA)>
+<!ATTLIST back
+xmlns CDATA #FIXED">
